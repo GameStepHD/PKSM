@@ -57,6 +57,7 @@ void filldatabase7(char *database[], int spriteArray[]) {
 	database[223] = "0223 - Ash-hat Pikachu"; spriteArray[223] = 25;
 	database[224] = "0224 - CoroCoro Charizard"; spriteArray[224] = 6;
 	database[227] = "0227 - Bestow Pikachu"; spriteArray[227] = 25;
+	database[233] = "0233 - HK Shini Tapu Koko"; spriteArray[233] = 785;
 	database[606] = "0606 - Rocky Lycanroc"; spriteArray[606] = 745;
 	database[1107] = "1107 - KOR Alolan Vulpix"; spriteArray[1107] = 37;
 	database[1601] = "1601 - Z-stone Munchlax"; spriteArray[1601] = 446;
